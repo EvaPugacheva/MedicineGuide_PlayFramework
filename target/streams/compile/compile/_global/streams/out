@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\evapu\Downloads\play-samples-3.0.x\play-samples-3.0.x\play-java-hello-world-tutorial\app\views\explore.scala.html:80:107: value tutorial is not a member of controllers.ReverseHomeController[0m
+[0m[[0m[31merror[0m] [0m[0m      <p>With this overview of the tutorial application, you are ready to <a href="@routes.HomeController.tutorial">add[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\evapu\Downloads\play-samples-3.0.x\play-samples-3.0.x\play-java-hello-world-tutorial\app\views\explore.scala.html:84:8: not found: value commonSidebar[0m
+[0m[[0m[31merror[0m] [0m[0m      @commonSidebar()[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\evapu\Downloads\play-samples-3.0.x\play-samples-3.0.x\play-java-hello-world-tutorial\app\views\tutorial.scala.html:158:8: not found: value commonSidebar[0m
+[0m[[0m[31merror[0m] [0m[0m      @commonSidebar()[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
